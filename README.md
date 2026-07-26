@@ -17,8 +17,6 @@ Vinci is the anchor of the portfolio: it is the one name where a civil-engineeri
 
 Both methods place implied value well above the traded price. This is treated as an **analytical finding, documented — not a target to force**. See [The finding](#the-finding).
 
-![Vinci SA — valuation football field](assets/vinci_football_field.png)
-
 ---
 
 ## Methodology
@@ -61,8 +59,6 @@ One deliberate refinement worth flagging: France's temporary corporate surtax is
 ## The finding
 
 The DCF implies ~+130–150% upside, which is large enough to demand an explanation rather than a headline. The reverse-DCF supplies it: at €126.90 the market is pricing a long-term growth rate of **−7.4%** — i.e. secular decline. That is not a plausible fundamental view of Vinci; it is the signature of a **CAPM limitation for low-beta infrastructure names**. A 0.75 beta produces a cost of equity that, combined with stable double-digit-margin concession cash flows, mechanically generates a high valuation. The gap is a property of the standard single-WACC CAPM approach applied to a long-duration, low-beta asset — documented as such, not patched by reverse-engineering the assumptions to hit the market price.
-
-![Vinci SA — implied price sensitivity to WACC and long-term growth](assets/vinci_sensitivity_heatmap.png)
 
 ---
 
